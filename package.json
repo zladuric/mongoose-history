@@ -33,9 +33,7 @@
   "bugs": {
     "url": "https://github.com/nassor/mongoose-history/issues"
   },
-  "dependencies": {
-    "mongoose": "~4.0.0"
-  },
+  "dependencies": {},
   "devDependencies": {
     "mocha": "*",
     "should": "*"
